@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMinTest", "MaxMinTest\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegressionFactorial", "RegressionFactorial\RegressionFactorial.csproj", "{1907EE0B-13AD-42EA-A74C-06F0A0F1214E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckingGitHubTest", "CheckingGitHubTest\CheckingGitHubTest.csproj", "{F58A08F3-4DB3-4186-B467-050A7785430E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1907EE0B-13AD-42EA-A74C-06F0A0F1214E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1907EE0B-13AD-42EA-A74C-06F0A0F1214E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1907EE0B-13AD-42EA-A74C-06F0A0F1214E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58A08F3-4DB3-4186-B467-050A7785430E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58A08F3-4DB3-4186-B467-050A7785430E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58A08F3-4DB3-4186-B467-050A7785430E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58A08F3-4DB3-4186-B467-050A7785430E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
