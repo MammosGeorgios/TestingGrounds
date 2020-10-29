@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegressionFactorial", "Regr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckingGitHubTest", "CheckingGitHubTest\CheckingGitHubTest.csproj", "{F58A08F3-4DB3-4186-B467-050A7785430E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringTest", "StringTest\StringTest.csproj", "{04E34CB5-5BB6-4667-A6A5-5F6F9E6558FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F58A08F3-4DB3-4186-B467-050A7785430E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F58A08F3-4DB3-4186-B467-050A7785430E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F58A08F3-4DB3-4186-B467-050A7785430E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E34CB5-5BB6-4667-A6A5-5F6F9E6558FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E34CB5-5BB6-4667-A6A5-5F6F9E6558FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E34CB5-5BB6-4667-A6A5-5F6F9E6558FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E34CB5-5BB6-4667-A6A5-5F6F9E6558FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
