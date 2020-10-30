@@ -12,6 +12,7 @@ namespace RegressionFactorial
         {
             int number = 4;
             Console.WriteLine("{0}! = {1}", number, Factorial(number));
+            Console.WriteLine();
 
 
         }
