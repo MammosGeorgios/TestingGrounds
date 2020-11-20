@@ -28,7 +28,6 @@ namespace ConnectingToDB
             {
 
                 conn.Open();
-                //string deleteString = "DELETE FROM Categories WHERE CategoryName = 'Miscellaneous'";
                 using (SqlCommand cmd = new SqlCommand("CustOrderHist", conn))
                 {
 
