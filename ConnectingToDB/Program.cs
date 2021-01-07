@@ -19,6 +19,7 @@ namespace ConnectingToDB
             //DeleteCategory();
 
             Procedure_CustOrderHist();
+            Object obj = new Object();
 
         }
 

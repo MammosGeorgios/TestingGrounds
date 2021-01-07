@@ -10,6 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            test1();
+        }
+
+        private static void test1()
+        {
             string s1 = "a,b,c,d,e,f,g";
             string[] array = s1.Split(',');
 
